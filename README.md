@@ -49,12 +49,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## 📄 Licença
 
 Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
-
-### Alterações e Emojis Adicionados
-- **Título:** Adicionado o emoji 📅 para indicar a funcionalidade de notificação.
-- **Funcionalidades:** Emojis relevantes foram adicionados para cada item da lista.
-- **Tecnologias Utilizadas:** A seção foi mantida limpa, mas você pode considerar adicionar emojis se desejar.
-- **Como Usar:** Os passos foram mantidos, e os emojis ajudam a chamar a atenção para cada seção.
-
-Sinta-se à vontade para personalizar ainda mais conforme o seu gosto!
